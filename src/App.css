@@ -121,7 +121,7 @@
 
 /* Estilos customizados para o site do passeio */
 .hero-section {
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./assets/happy.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./assets/happy.png');
   background-size: cover;
   background-position: center;
   background-attachment: no-repeat;
@@ -170,6 +170,7 @@
 .text-green-600 {
   color: #16a34a;
 }
+
 
 
 
