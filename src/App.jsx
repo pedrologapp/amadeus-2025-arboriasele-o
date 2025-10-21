@@ -236,7 +236,7 @@ import React, { useState } from 'react';
               </CardHeader>
               <CardContent>
                 <ul className="text-sm list-disc list-inside space-y-1 text-left">
-                  <li>A participação nesse evento é obrigatória e contará presença.</li>
+                  <li>A participação contará presença.</li>
                 </ul>
               </CardContent>
             </Card>
@@ -357,6 +357,7 @@ import React, { useState } from 'react';
 }
 
 export default App;
+
 
 
 
