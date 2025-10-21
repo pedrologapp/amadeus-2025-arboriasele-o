@@ -145,9 +145,23 @@ import React, { useState } from 'react';
                     <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
                       Cerimônia de Seleção de Casas Arboria
                     </h1>
-                    <p className="text-xl md:text-2xl mb-8 opacity-90">
-                    Damos as boas vindas a cerimônia de seleção de casas!
-                    </p>
+                    <div className="space-y-6 mb-10">
+              <p className="text-2xl md:text-3xl font-light leading-relaxed">
+                Cada criança é uma árvore única. <br />
+                E toda árvore precisa de sua floresta.
+              </p>
+              
+              <div className="w-16 h-1 bg-white/50 mx-auto my-6"></div>
+              
+              <p className="text-lg md:text-xl opacity-90 leading-relaxed max-w-3xl mx-auto">
+                Esta cerimônia é o momento em que seu filho descobrirá em qual casa 
+                seus talentos naturais florescem com mais força - rodeado de outras 
+                crianças que enxergam o mundo com olhos parecidos. 
+                <span className="block mt-3 font-medium">
+                  Não é sobre dividir. É sobre pertencer.
+                </span>
+              </p>
+            </div>
                     <div className="flex flex-col sm:flex-row gap-4 justify-center">
                       <Button 
                         size="lg" 
@@ -161,7 +175,7 @@ import React, { useState } from 'react';
                     <div className="mt-12 flex justify-center items-center space-x-8 text-sm">
                       <div className="flex items-center">
                         <Calendar className="h-5 w-5 mr-2" />
-                        31 de Outubro de 2025 - a tarde
+                        31 de Outubro de 2025 - à tarde
                       </div>
                       <div className="flex items-center">
                         <MapPin className="h-5 w-5 mr-2" />
@@ -343,6 +357,7 @@ import React, { useState } from 'react';
 }
 
 export default App;
+
 
 
 
