@@ -123,7 +123,7 @@ import React, { useState } from 'react';
 
             return (
               <div className="min-h-screen smooth-scroll">
-                {/* Header/Navigation */}
+                {/* Header/Navigation 
                 <header className="fixed top-0 w-full bg-white/95 backdrop-blur-sm z-50 border-b">
                   <nav className="container mx-auto px-4 py-4">
                     <div className="flex justify-between items-center">
@@ -138,7 +138,7 @@ import React, { useState } from 'react';
                     </div>
                   </nav>
                 </header>
-
+*/}
                 {/* Hero Section */}
                 <section className="hero-section min-h-screen flex items-center justify-center text-white relative">
                   <div className="text-center z-10 max-w-4xl mx-auto px-4">
@@ -357,6 +357,7 @@ import React, { useState } from 'react';
 }
 
 export default App;
+
 
 
 
