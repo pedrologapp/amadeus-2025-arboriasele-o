@@ -143,7 +143,7 @@ import React, { useState } from 'react';
                 <section className="hero-section min-h-screen flex items-center justify-center text-white relative">
                   <div className="text-center z-10 max-w-4xl mx-auto px-4">
                     <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
-                      Cerimônia de Seleção de Casas Arboria
+                      Cerimônia de Seleção    Casas Arboria
                     </h1>
                     <div className="space-y-6 mb-10">
               <p className="text-2xl md:text-3xl font-light leading-relaxed">
@@ -357,6 +357,7 @@ import React, { useState } from 'react';
 }
 
 export default App;
+
 
 
 
