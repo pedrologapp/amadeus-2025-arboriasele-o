@@ -191,7 +191,7 @@ import React, { useState } from 'react';
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-4">Sobre o evento</h2>
             <p className="text-lg text-muted-foreground">
-             Esse evento é gratuito - esta cerimônia faz parte da jornada pedagógica de cada criança.
+             Esse evento é gratuito e apenas para os alunos - esta cerimônia faz parte da jornada pedagógica de cada aluno.
             </p>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -357,6 +357,7 @@ import React, { useState } from 'react';
 }
 
 export default App;
+
 
 
 
