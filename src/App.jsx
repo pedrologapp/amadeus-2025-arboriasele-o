@@ -147,7 +147,7 @@ import React, { useState } from 'react';
                     </h1>
                     <div className="space-y-6 mb-10">
               <p className="text-2xl md:text-3xl font-light leading-relaxed">
-                Cada criança é uma árvore única. <br />
+                Cada aluno é uma árvore única. <br />
                 E toda árvore precisa de sua floresta.
               </p>
               
@@ -155,8 +155,8 @@ import React, { useState } from 'react';
               
               <p className="text-lg md:text-xl opacity-90 leading-relaxed max-w-3xl mx-auto">
                 Esta cerimônia é o momento em que seu filho descobrirá em qual casa 
-                seus talentos naturais florescem com mais força - rodeado de outras 
-                crianças que enxergam o mundo com olhos parecidos. 
+                seus talentos naturais florescem com mais força - rodeado de outros 
+                alunos que enxergam o mundo com olhos parecidos. 
                 <span className="block mt-3 font-medium">
                   Não é sobre dividir. É sobre pertencer.
                 </span>
@@ -357,6 +357,7 @@ import React, { useState } from 'react';
 }
 
 export default App;
+
 
 
 
