@@ -236,7 +236,7 @@ import React, { useState } from 'react';
               </CardHeader>
               <CardContent>
                 <ul className="text-sm list-disc list-inside space-y-1 text-left">
-                  <li>A participação contará presença.</li>
+                  <li>É importante a participação do aluno pois é um momento que entendemos ser pedagogicamente significativo.</li>
                 </ul>
               </CardContent>
             </Card>
@@ -357,6 +357,7 @@ import React, { useState } from 'react';
 }
 
 export default App;
+
 
 
 
